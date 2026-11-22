@@ -1,0 +1,13 @@
+name = "Wandering Sword"
+author = "Wandering Sword"
+version = "1.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "31c2f3e03adb32429d2f2bd877defda9e4ee0bd7fecb0068fba66b4c684e1326"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.267"

@@ -1,0 +1,5 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/wanderingsword.jar"
+hash = "0f5f473d934977420303c031d5acdf4acc989acf80971cad3911de6ad384b427"
