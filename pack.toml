@@ -1,12 +1,12 @@
 name = "Wandering Sword"
 author = "Wandering Sword"
-version = "1.0.3"
+version = "1.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "42fda8f9142d685ee5c05c991e3bbff345b642da9d4b5bbccf6e5b752d7c3415"
+hash = "3fba6f5baafa8b241be03183765e1eba413b65bc4b41fa5b1f8dd18da545bddc"
 
 [versions]
 minecraft = "1.21.1"
